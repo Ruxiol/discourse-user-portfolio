@@ -11,3 +11,5 @@ function generate() {
         privKey: privKey
     };
 }
+function sign(privKey, message) {
+}
